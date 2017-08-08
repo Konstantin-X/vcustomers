@@ -1,5 +1,7 @@
 # vCustomers
 
+  https://www.youtube.com/watch?v=IUgstalu6zo
+
 > Simple customer manager frontend to be used with the [SlimPHP RESTful API](https://github.com/bradtraversy/slimapp)
 
 ## Installation
